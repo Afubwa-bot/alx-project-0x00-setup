@@ -2,7 +2,7 @@ export interface Pillprops{
     title: string
 }
 
-export interface ButtonProps{
+export interface IButtonProps{
     title: string;
-    styles?: string;
+    styles: string;
 }
